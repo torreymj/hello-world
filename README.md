@@ -1,3 +1,3 @@
 # hello-world
 Basic hello world project --
-JavaScript 
+My name is Micauly Torrey
